@@ -2137,4 +2137,4 @@ Signed,
 - Ninjayoto ([@ninjayoto](https://github.com/ninjayoto)), Android Developer, Canada.
 - Adhyan Dhull ([@adhyandhull](https://github.com/adhyandhull)), Student, Open Source Contributor, India
 - Pradeep P ([@pradeepppc](https://github.com/pradeepppc)) CS Student, Mobile and Web Developer
-- Alemayehu Bogale ([@alemayehub](https://github.com/AlemayehuB), Undergraduate Studet, University of Chicago
+- Alemayehu Bogale ([@alemayehub](https://github.com/AlemayehuB)), Undergraduate Studet, University of Chicago
